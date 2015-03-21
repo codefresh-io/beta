@@ -17,6 +17,10 @@ We want to make it easy to configure and launch an orchestrated environment that
 
 Codefresh provides a terminal and a web IDE (based on Eclipse Orion) that allow you to test, edit code and commit changes. For convenience, we provide a streamlined interface to GitHub branch management. While your primary development environment might be on your desktop, Codefresh makes it trivial to spin up cloud-hosted environments for working on any branch and sharing previews with other members of your team.
 
+## Getting Started
+
+Please see our [Getting Started](wiki/Getting-Started) page.
+
 ## How to provide feedback
 
 We are interested in hearing about your use cases, insights, and suggestions for improvement.
@@ -26,8 +30,6 @@ Please file issues [here](https://github.com/codefresh-io/beta/issues).
 We have a private Google group for discussions [here](https://groups.google.com/forum/#!forum/codefresh-private-beta).
 
 If you can’t access the group, please send an email to beta@codefresh.io
-
-
 
 ## What will I get out of this?
 
