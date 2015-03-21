@@ -19,7 +19,7 @@ Codefresh provides a terminal and a web IDE (based on Eclipse Orion) that allow 
 
 ## Getting Started
 
-Please see our [Getting Started](wiki/Getting-Started) page.
+Please see our [Getting Started](https://github.com/codefresh-io/beta/wiki/Getting-Started) wiki page.
 
 ## How to provide feedback
 
