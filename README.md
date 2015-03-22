@@ -11,7 +11,7 @@ We are a startup headquartered in Palo Alto. We are passionate about Node.js, Do
 
 ## What can you do with our service?
 
-Our primary goal is to provide one-click access to on-demand, Cloud hosted workspaces to test, edit and collaborate on any commit for any branch in a GitHub repo for Dockerized Node service applications.
+Our primary goal is to provide one-click access to on-demand, Cloud hosted workspaces to demonstrate, test, edit, and collaborate on any commit for any branch in a GitHub repo for Dockerized Node service applications.
 
 We want to make it easy to configure and launch an orchestrated environment that matches production for Node.js services and their dependencies, making it fast, simple and painless to collaborate, test branches, and share feature previews with others.
 
