@@ -1,3 +1,5 @@
+[![Gitter chat](https://badges.gitter.im/codefresh-io/beta.png)](https://gitter.im/codefresh-io/beta "Gitter chat")
+
 
 ![codefresh](http://images.codefresh.io.s3.amazonaws.com/logo/codefresh_logo_120x106.png)
 
