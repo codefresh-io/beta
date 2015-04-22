@@ -50,27 +50,22 @@ In addition to the opportunity to have a say in shaping the product and prioriti
  * Current implementation uses one Docker container for a repo (in the next version user will be able to visually create fig recipe for multiple containers) 
  * Global Search in the IDE is not working (known bug)
  * User is limited (at the moment) to one running environment at a time
-
  * npm install
 
-Unlike our public Labs beta, the private beta does not automatically run `npm install`. You will need to run it manually in the terminal. However, make sure to note the next section about `NODE_ENV`.
+Unlike our public Labs beta, the private beta does not automatically run `npm install`. In order to run `npm install` automatically you may add this command to the auto start script as described [here](#setting-up-auto-start-script) or run it manually in the terminal. However, make sure to note the next section about `NODE_ENV`.
 
-* NODE_ENV
+ * NODE_ENV
 
-`NODE_ENV` is set to production. If you have `devDependencies` in your `package.json` that you want to install (to run tests, for example), make sure to explicitly set it to `development` before installing.
+`NODE_ENV` is set to production. If you have `devDependencies` in your `package.json` that you want to install (to run tests, for example), make sure to explicitly set it to `development` in the repo setting. for more info go [environment variable](#environment-variables) section.
 
-    NODE_ENV=development npm install
+    NODE_ENV=development
 
- * Setting the port
+* Setting the port
 
-A public port is exposed for you to test and is displayed at the top left in the following screenshot. However, the `PORT` environment variable is not currently being set. Make sure to explicitly provide it when running your app.
+A public port is exposed for you to test and is displayed at the top left in the following screenshot. However, the `PORT` environment variable is not currently being set. Make sure to explicitly set it in the [environment variable](#environment-variables) section..
 
-    PORT=9000 npm start
+    PORT=9000
 
-or
 
-    PORT=9000 node <module>
-
-![port](http://images.codefresh.io.s3.amazonaws.com/getting-started/port-assignment.png)
 
 
