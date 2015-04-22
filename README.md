@@ -2,9 +2,9 @@
 
 ![codefresh](https://dl.dropboxusercontent.com/u/7079908/public_images/codefresh_logo_web.png)
 
-## Welcome to the Codefresh Private Beta!
+## Welcome to the Codefresh Beta program!
 
-We are very pleased to have you as part of our beta program and we welcome your feedback.
+We are very pleased to have you as part of our beta program and we welcome your feedback. We are currently provisioning access to a limited number of people. Access to the platform is granted by GitHub or BitBucket ID, so please complete your registration [here](http://goo.gl/forms/PjMqFDysVG).
 
 ## What is Codefresh?
 
