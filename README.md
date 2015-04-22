@@ -8,7 +8,7 @@ We are very pleased to have you as part of our beta program and we welcome your 
 
 ## What is Codefresh?
 
-We are a startup headquartered in Palo Alto. We are passionate about Node.js, Docker, microservice architecture, and DevOps.
+We are a startup headquartered in Palo Alto. We are passionate about Node.js, Docker, microservice architecture, and DevOps. Our mission is to enable Development and QA teams to test, fix and collaborate on multi-Docker applications in the most efficient, usable and cost-effective way.
 
 ## What can you do with our service?
 
