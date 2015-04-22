@@ -41,16 +41,15 @@ In addition to the opportunity to have a say in shaping the product and prioriti
  * Browse your public and private repo branches and commits, merge branches
  * One click to open a workspace for any commit in a branch
  * Configure environment settings for launch
+ * Make any code change, test it and commit back to your git branch
  * Launch your Node service application
 
 ## Known Issues & Limitations
 
- * Login using GitHub repo. We support only GitHub at the moment. We plan to add Bitbucket support.
  * “TEST” link is still ‘work in progress’. Coming soon. 
  * Current implementation uses one Docker container for a repo (in the next version user will be able to visually create fig recipe for multiple containers) 
  * Global Search in the IDE is not working (known bug)
  * User is limited (at the moment) to one running environment at a time
- * Repo settings (displayed in repo settings page) are not fully implemented/saved
 
  * npm install
 
